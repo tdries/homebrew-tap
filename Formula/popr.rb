@@ -3,8 +3,8 @@
 class Popr < Formula
   desc "Clickable macOS notifications when a Claude Code session finishes or needs you"
   homepage "https://github.com/tdries/td-claude-plugin-popr"
-  url "https://github.com/tdries/td-claude-plugin-popr/archive/refs/tags/v1.6.0.tar.gz"
-  sha256 "352f5e039b26cbf99474773fd22cadd656f79649cd1525bc27dc881e93c3d168"
+  url "https://github.com/tdries/td-claude-plugin-popr/archive/refs/tags/v1.6.1.tar.gz"
+  sha256 "7966c87e921a91a21516c30a56279a944f834d12c1c3185189f1e5bedc074887"
   license "MIT"
 
   depends_on :macos
